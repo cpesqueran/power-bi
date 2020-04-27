@@ -1,2 +1,2 @@
-# power-bi
+# Repositorio Power BI
 Repositorio Power BI
